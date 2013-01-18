@@ -1,4 +1,4 @@
-makeiconset.pl creates a .iconset folder for Mac OS X apps, post-Retina, containing the required ten (10) png files of different sizes.  It simply scales down a given png file, using the 'sips' program built into Mac OS X.
+makeiconset.pl creates a .iconset folder for Mac OS X apps, supporting Retina displays, containing the required ten (10) png files of different sizes.  It simply scales down a given png file, using the 'sips' program built into Mac OS X.
 
 This script is therefore useful for simple, straight-line icons which don't need to be tweaked for each scaling by a human designer, or for projects where the intended users and budget does not warrant it.  Or, you can run this script, examine the results and then hand-tweak the ones which are not good enough.
 
